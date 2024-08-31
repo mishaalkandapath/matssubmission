@@ -1,3 +1,7 @@
+## Remember: git lfs fetch --all 
+in order to get the checkpoints used to load into transformerlens
+The below documentation is the original documentation from Lehnert et al., (2024) (kept here in case its useful, but generally unrelated to the project).
+
 # Searchformer
 
 Official code base for the paper titled [_Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping_](https://arxiv.org/abs/2402.14083).
