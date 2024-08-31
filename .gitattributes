@@ -1,0 +1,2 @@
+checkpoints/lens_decoder_searchformer.ckpt filter=lfs diff=lfs merge=lfs -text
+checkpoints/onlydecoderrun1.ckpt filter=lfs diff=lfs merge=lfs -text
